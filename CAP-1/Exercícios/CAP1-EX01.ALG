@@ -4,5 +4,5 @@ Var
 Inicio
    escreva("Digite um número: ")
    leia(num)
-   escreva("O seu sucessor: ", num + 1)
+   escreva("O seu sucessor: ", num + 1) //esd
 Fimalgoritmo
